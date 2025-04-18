@@ -1,0 +1,17 @@
+---
+title: My book title
+author: Darren Kessner
+rights: MIT License
+lang: en-US
+mainlang: english
+otherlang: english
+tags: [pandoc, book, my-book, etc]
+abstract: |
+  The quick brown fox jumps over the lazy dog.
+mainfont: Courier New
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+papersize: a5
+---
+
