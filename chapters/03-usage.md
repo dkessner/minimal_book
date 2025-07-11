@@ -2,4 +2,26 @@
 
 This is the usage chapter.
 
-\newpage
+\vspace{1in}
+
+The quick brown fox jumps over the lazy dog.
+
+```console
+echo "Hello, world!"
+```
+
+<br/>
+
+```python
+def main():
+    print("Hello, world!")
+```
+
+```java
+!include chapters/Hello.java
+```
+
+
+
+
+
